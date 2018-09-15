@@ -1,4 +1,8 @@
+
+
 # Marci
+
+[![Build Status](https://api.travis-ci.org/codemug/marci.svg?branch=master)](https://api.travis-ci.org/codemug/marci)
 
 Navigate your python process' memory. Analyze objects and their relations to other objects.
 
